@@ -1,2 +1,2 @@
 # learnyounode
-learnyounode excercisses from nodeschool
+learnyounode exercises from nodeschool
